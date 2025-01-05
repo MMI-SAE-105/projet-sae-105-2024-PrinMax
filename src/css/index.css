@@ -71,6 +71,13 @@ display: flex;
      padding-right: 10px;
  }
 
+ .texte {
+     margin-top: 10px;
+     margin-bottom: 10px;
+     padding-left: 10px;
+     padding-right: 10px;
+ }
+
  .articles {
 margin-left: 25px;
 margin-right: 25px;
@@ -82,11 +89,23 @@ margin-right: 25px;
      max-width: 400px;
  }
 
+ .legend {
+    color: #878787;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+ }
+
  .article img {
      width: 100%;
      border-radius: 0px;
  }
 
+ .image_darticle {
+     margin: 20px;
+     margin-bottom: 10px;
+     text-align: center;
+ }
  .article-text {
     color: #ffffff;
     padding: 10px;
@@ -112,6 +131,8 @@ margin-right: 25px;
  .line {
     display: inline-block;
     align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
  }
 
  p {
