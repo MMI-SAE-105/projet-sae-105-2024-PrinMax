@@ -72,6 +72,7 @@ display: flex;
  }
 
  .texte {
+    line-height: 1.5;
      margin-top: 20px;
      margin-bottom: 10px;
      padding-left: 10px;
@@ -141,8 +142,9 @@ margin-right: 25px;
      padding: 10;
  }
 
- h2 {
+ .titrearticle {
      margin-top: 0;
      margin-bottom: 0;
      padding: 10px;
+    font-size: 1.4rem;
  }
