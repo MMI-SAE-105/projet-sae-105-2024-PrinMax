@@ -147,7 +147,10 @@ margin-right: 25px;
      text-decoration: none;
      border-radius: 25px;
      font-weight: bold;
+     margin: 10px;
+     margin-bottom: 20px;
  }
+
 
  .btn:hover {
      background-color: #12264d;
