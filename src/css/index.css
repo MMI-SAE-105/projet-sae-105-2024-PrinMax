@@ -103,6 +103,7 @@ margin-right: 25px;
  }
 
  .image_darticle {
+    width: 90%;
      margin: 20px;
      margin-bottom: 10px;
      text-align: center;
@@ -130,8 +131,10 @@ margin-right: 25px;
  }
 
  .line {
+    width: 90%;
     display: inline-block;
     align-items: center;
+    margin-left: 15px;
     margin-top: 10px;
     margin-bottom: 10px;
  }
@@ -149,3 +152,8 @@ margin-right: 25px;
     font-size: 1.4rem;
  }
 
+.vid {
+    height: 90%;
+    width: 90%;
+    margin-left: 20px;
+}
