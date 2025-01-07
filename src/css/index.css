@@ -85,9 +85,11 @@ margin-right: 25px;
  }
 
  .article {
-     background-color: #12264d;
      margin: 20px auto;
      max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
  }
 
  .legend {
@@ -101,6 +103,16 @@ margin-right: 25px;
      width: 100%;
      border-radius: 0px;
  }
+
+  .projet-img {
+      width: 30%;
+      align-items: center;
+      margin-bottom: 10px;
+  }
+.fixprojet {
+    display: flex;
+    flex-direction: column;
+}
 
  .image_darticle {
     width: 90%;
@@ -118,9 +130,11 @@ margin-right: 25px;
   }
 
  .article-text {
+    background-color: #12264d;
     color: #ffffff;
     padding: 10px;
      text-align: left;
+        width: 100%;
  }
 
  .btn {
@@ -208,4 +222,9 @@ margin-right: 25px;
 .iconmenu {
     margin-right: 40px;
     margin-top: 40px;
+}
+
+.white {
+    background-color: #ffffff;
+    
 }
