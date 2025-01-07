@@ -108,6 +108,7 @@ margin-right: 25px;
       width: 30%;
       align-items: center;
       margin-bottom: 10px;
+    margin-top: 10px;
   }
 .fixprojet {
     display: flex;
@@ -134,7 +135,7 @@ margin-right: 25px;
     color: #ffffff;
     padding: 10px;
      text-align: left;
-        width: 100%;
+        width: 94%;
  }
 
  .btn {
