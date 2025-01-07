@@ -17,11 +17,11 @@ header {
      display: flex;
  }
 
-.logo img {
+.logo_img {
     border: 0px;
     height: 70px;
-    margin-top: 0px;
-    margin-left: 0px;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 
  .menu {
@@ -148,6 +148,15 @@ margin-right: 25px;
     margin-bottom: 10px;
  }
 
+ .linemenu {
+     width: 90%;
+     display: inline-block;
+     align-items: center;
+     margin-left: 0px;
+     margin-top: 5px;
+     margin-bottom: 5px;
+ }
+
  p {
      margin-top: 0;
     margin-bottom: 0px;
@@ -194,4 +203,9 @@ margin-right: 25px;
     display: flex;
     align-items: center;
     padding-left: 10px;
+}
+
+.iconmenu {
+    margin-right: 40px;
+    margin-top: 40px;
 }
