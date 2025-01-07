@@ -6,5 +6,5 @@
 - NOM : Prin
 - PRÉNOM : max
 - GROUPE : C1
-- URL du site :
+- URL du site : https://cosmonova.netlify.app
 - URL FIGMA : https://www.figma.com/design/kTIDznmRP8HbG3Q5hykYDg/Max-Prin-Projet-individuel---MMi1---2024-2025?node-id=0-1&t=Elzruuez5ZfqYbyZ-1
