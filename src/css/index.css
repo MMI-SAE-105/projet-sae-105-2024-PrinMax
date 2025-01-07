@@ -157,3 +157,32 @@ margin-right: 25px;
     width: 90%;
     margin-left: 20px;
 }
+
+.textepetit {
+    font-size: 0.9rem;
+    color: #000000;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.button {
+    border-radius: 12px;
+    background-color: #001879;
+    width: 160px;
+    height: 45px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    margin-left: 10px;
+}
+
+.titrepage {
+    background-color: #00194d;
+    color: #ffffff;
+    height: 47px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
