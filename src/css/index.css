@@ -138,6 +138,12 @@ margin-right: 25px;
         width: 94%;
  }
 
+  .article-text2 {
+      padding: 20px;
+      text-align: left;
+      width: 100%;
+  }
+
  .btn {
      display: inline-block;
      align-items: center;
