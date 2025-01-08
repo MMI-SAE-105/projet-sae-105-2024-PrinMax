@@ -6,7 +6,6 @@
  }
 
 header {
-    height: 120px;
     background-color: #00194d;
     display: flex;
     justify-content: space-between;
@@ -238,4 +237,9 @@ margin-right: 25px;
 .white {
     background-color: #ffffff;
     
+}
+
+.langue {
+margin-left: 20px;
+margin-top: 20px;
 }
